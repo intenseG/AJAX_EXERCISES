@@ -1,0 +1,17 @@
+{
+  "vegetable": [
+    {"name": "ニンジン", "value": 1},
+    {"name": "キャベツ", "value": 2},
+    {"name": "ジャガイモ", "value": 3}
+  ],
+  "fruit": [
+    {"name": "モモ", "value": 1},
+    {"name": "イチゴ", "value": 2},
+    {"name": "バナナ", "value": 3}
+  ],
+  "drink": [
+    {"name": "コーラ", "value": 1},
+    {"name": "爽健美茶", "value": 2},
+    {"name": "ミニッツメイド", "value": 3}
+  ]
+}
