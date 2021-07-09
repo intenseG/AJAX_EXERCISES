@@ -6,7 +6,6 @@ async function changeCategory(event) {
     currentCategory = event.currentTarget.value;
     const response = await fetch('./data.json');
     const data = await response.json();
-    console.log(data);
     const target = data[currentCategory];
 
     for (let i = itemElm.options.length - 1; 0 <= i; --i) {
